@@ -1,0 +1,27 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "mongodb work test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongo",
+    "test"
+  ],
+  "author": "hng",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.4.0",
+    "firebase-admin": "^11.0.0",
+    "jspdf": "^2.5.1",
+    "mongoose": "^6.0.13",
+    "node-string-pad": "^0.0.4",
+    "pdfkit": "^0.13.0",
+    "supervisor": "^0.12.0"
+  }
+}

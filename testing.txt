@@ -1,0 +1,6 @@
+docker run   -e ES_HOST=host.docker.internal -e ES_PORT=9200  mammo0/docker-arkime
+docker run -e ES_HOST=elasticsearch  -e ES_PORT=9200    mammo0/docker-arkime
+
+
+
+
